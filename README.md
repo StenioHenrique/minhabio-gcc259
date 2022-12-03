@@ -1,6 +1,6 @@
 # Stenio Henrique Machado Silva
 
-!(D:\Stenio\Documents\UFLA\SL\1641989816557.jpg)
+![1641989816557](https://user-images.githubusercontent.com/56547429/205449082-1d8a8eb7-e973-4c5e-9874-568396b1ebef.jpg)
 
 - Local: Lavras- MG | Idade: 23 anos
 
