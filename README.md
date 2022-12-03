@@ -1,6 +1,5 @@
 # Stenio Henrique Machado Silva
 
-![1641989816557](1641989816557 (1).jpg)
 
 - Local: Lavras- MG | Idade: 23 anos
 
@@ -35,6 +34,7 @@ Atualmente trabalho no YouxGroup e estou cursando a graduação em Sistemas de I
 
 - Testes automatizados com Cypress 
 
+![1641989816557](https://raw.githubusercontent.com/StenioHenrique/minhabio-gcc259/main/1641989816557%20(1).jpg)
 
 
 
