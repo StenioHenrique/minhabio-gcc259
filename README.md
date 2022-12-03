@@ -1,5 +1,7 @@
 # Stenio Henrique Machado Silva
 
+!(D:\Stenio\Documents\UFLA\SL\1641989816557.jpg)
+
 - Local: Lavras- MG | Idade: 23 anos
 
 Sou **Analista de Qualidade de Software**, com ênfase em **Testes manuais** desde 2020. Já cursei o técnico em Redes de Computadores, no modelo integrado ao ensino médio no *CEFET-MG*. 
